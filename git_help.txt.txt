@@ -4,3 +4,9 @@
 4. git diff 
 5. git rm filename --- will remove the file 
 6. git rm -f filename will remove the file forcefully from the staging area
+7. git log --pretty=oneline
+8. git log --pretty=format:"%h : %an : %ar : %s"
+9. git log -p -2
+10. git log --since=1.weeks
+11. git log --since="2014"
+12.git commit --ammend     --> Allows to change the old commits .
