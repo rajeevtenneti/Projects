@@ -1,4 +1,6 @@
 1. git config --global user.name "Teja Tenneti"
 2. git config --global user.email rajeevtenneti@gmail.com
 3.git config --list    -> Show git settings
-4. 
+4. git diff 
+5. git rm filename --- will remove the file 
+6. git rm -f filename will remove the file forcefully from the staging area
